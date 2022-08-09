@@ -1,0 +1,11 @@
+com\library\demo\controllers\MainController.class
+com\library\demo\entities\Book.class
+com\library\demo\entities\User.class
+com\library\demo\settings\SecuritySettings.class
+com\library\demo\repositories\EditorialRepository.class
+com\library\demo\entities\Author.class
+com\library\demo\controllers\BookController.class
+com\library\demo\repositories\AuthorRepository.class
+com\library\demo\repositories\BookRepository.class
+com\library\demo\entities\Editorial.class
+com\library\demo\LibraryApplication.class
